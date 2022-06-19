@@ -4,5 +4,5 @@ U okviru ovog projekta bice prikazana implementacija Gabrove funkcije i Gaborovo
 U implementaciji su koriscene biblioteke:<br>
 > numpy<br>
 > matplotlib<br>
-> cv2
+> cv2<br>
 > PIL
