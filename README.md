@@ -8,7 +8,8 @@ U implementaciji su koriscene biblioteke:<br>
 > matplotlib<br>
 > cv2<br>
 > PIL<br>
-Literatura:
+
+Literatura:<br>
 > [https://medium.com/@anuj_shah/through-the-eyes-of-gabor-filter-17d1fdb3ac97](https://medium.com/@anuj_shah/through-the-eyes-of-gabor-filter-17d1fdb3ac97)<br>
 > [https://github.com/bnsreenu/python_for_image_processing_APEER](https://github.com/bnsreenu/python_for_image_processing_APEER)<br>
 > [https://www.fer.unizg.hr/_download/repository/Prepoznavanje_lica_pomocu_Gaborove_wavelet_transformacije[2].pdf](https://www.fer.unizg.hr/_download/repository/Prepoznavanje_lica_pomocu_Gaborove_wavelet_transformacije[2].pdf)
